@@ -1,0 +1,8 @@
+interface:
+  display_name: "Customer Insight Deep Research"
+  short_description: "Bilingual customer insight reports"
+  brand_color: "#1A73E8"
+  default_prompt: "Use $customer-insight-deep-research to research a target customer and produce a bilingual Word/PPT insight package with evidence, market, business, technology, process/API, cloud resilience, and discussion questions."
+
+policy:
+  allow_implicit_invocation: true
